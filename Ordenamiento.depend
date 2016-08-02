@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470148888 source:/home/oavera/Dropbox/CodeProjects/C++Projects/Ordenamiento/main.cpp
+	<iostream>
+	<list>
+	<vector>
+
